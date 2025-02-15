@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tags_sheet_title">Edit Tag</string>
+    <string name="hour_unit">hr</string>
+    <string name="minute_unit">min</string>
+    <string name="second_unit">sec</string>
+    <string name="choose_time">Choose Time</string>
+</resources>

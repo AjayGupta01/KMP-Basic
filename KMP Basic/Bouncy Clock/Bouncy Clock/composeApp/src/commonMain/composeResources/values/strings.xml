@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flip Clock</string>
+    <string name="home">Home</string>
+    <string name="timer">Timer</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="drill">Drill</string>
+    <string name="settings">Settings</string>
+</resources>

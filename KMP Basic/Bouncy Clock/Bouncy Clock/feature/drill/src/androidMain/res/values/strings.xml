@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tags_sheet_title">Edit Tag</string>
+    <string name="report_title">My Report</string>
+    <string name="hour_unit">hr</string>
+    <string name="minute_unit">min</string>
+    <string name="second_unit">sec</string>
+    <string name="choose_time">Choose Time</string>
+    <string name="drill_stats">Drill Stats</string>
+    <string name="time_stats">Time Stats</string>
+    <string name="drill_screen_end_drill_attention">A drill is already running. Do you want to end the drill?</string>
+    <string name="delete_drill_msg">Deleting this drill will remove all related records. Are you sure want to delete it?</string>
+    <string name="record_is_empty">Record is empty</string>
+</resources>
